@@ -1,8 +1,4 @@
 # data-analyst-task-4
-Sure 👍 I’ll read the image for you:
-
-DATA ANALYST INTERNSHIP
-
 Task 4: Dashboard Design
 
 Objective: Design an interactive dashboard for business stakeholders.
